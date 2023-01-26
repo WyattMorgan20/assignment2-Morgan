@@ -9,3 +9,6 @@
 1. Micheal Jordan
 2. Scottie Pippen
 3. Artis Gilmore
+* Miami Heat
+* LA Lakers
+* Boston Celtics
