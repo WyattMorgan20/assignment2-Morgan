@@ -14,3 +14,16 @@
 * Boston Celtics
 
 [About Me](AboutMe.md)
+
+
+---
+
+#Tables
+In this section we will be looking at 4 countries I think everyone should visit!
+
+| Country Name | Why I Recommend it | Time to Spend There |
+| --- | --- | --- |
+| Germany | The country has very important history to how the world currently runs and they have very good deli meats | I would spend from 3 days to a week there |
+| Canada | It's not too far from home but still a new area to check out and enjoy. Colder climates for those who enjoy them. | I would spend 3 days to a week here too |
+| Italy | There's a large variety of great food options you can try here as well as a big change in architecture (mostly) from the US | I would spend 2 weeks here |
+| Anywhere in "Basque" country in Spain/France | Full of people who have a lot of national pride and good food! | I would spend about a week here |
