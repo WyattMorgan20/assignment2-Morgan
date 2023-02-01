@@ -27,3 +27,12 @@ In this section we will be looking at 4 countries I think everyone should visit!
 | Canada | It's not too far from home but still a new area to check out and enjoy. Colder climates for those who enjoy them. | I would spend 3 days to a week here too |
 | Italy | There's a large variety of great food options you can try here as well as a big change in architecture (mostly) from the US | I would spend 2 weeks here |
 | Anywhere in "Basque" country in Spain/France | Full of people who have a lot of national pride and good food! | I would spend about a week here |
+
+---
+
+#Quotes
+
+>I've got a list, we're gonna work down it, together. Number 1, I'm gonna bend something, something that was not meant to bend.
+>>I'm gonna stop you right there because I'm not gonna make it to 2. I won't even make it to 1. I don't do well with pain, I stub my toe and I'm done for the day. *Deadpool 2 Writers*
+
+>Hi, I'm looking for ray finkle... and a clean pair of shorts. *Ace Ventura Writers*
