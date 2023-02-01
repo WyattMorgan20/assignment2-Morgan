@@ -36,3 +36,52 @@ In this section we will be looking at 4 countries I think everyone should visit!
 >>I'm gonna stop you right there because I'm not gonna make it to 2. I won't even make it to 1. I don't do well with pain, I stub my toe and I'm done for the day. *Deadpool 2 Writers*
 
 >Hi, I'm looking for ray finkle... and a clean pair of shorts. *Ace Ventura Writers*
+
+---
+
+# Code Fencing
+
+```
+<button>
+  Some
+  <br>
+  Text
+</button>
+```
+<https://css-tricks.com/snippets/html/button-with-line-breaks/>
+
+>I have a large file with line breaks and spaces. The file has text like as follows
+
+Ampex 
+
+Baofeng 
+
+JBL 
+
+Pioneer 
+
+Sony 
+
+1 BY ONE 
+To read the file i wrote this
+
+$array = explode("\n", file_get_contents('brands.txt'));
+
+foreach($array as $line) {
+    
+    $html_code = '<div class="form-check">
+  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+  <label class="form-check-label d-flex justify-content-between align-items-center" for="exampleRadios1">'.
+     $line
+    .'<span class="badge bg-primary rounded-pill">1</span>
+  </label>
+</div>';
+echo $html_code;
+
+echo '<pre>';
+//print_r($line);
+echo '</pre>';
+}
+however my html output has an extra radio with value 1 after output the correct value. How can i output the correct value without the 1 showing as a radio button value?
+<https://stackoverflow.com/questions/73671967/remove-white-space-from-text-file-with-line-breaks>
+
